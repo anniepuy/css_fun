@@ -3,5 +3,14 @@
     height: 100px;
     background-color: yellow;
     border: 1px solid black;
-    transform: translateX(100px);
+    transform: translate(100px, 100px);
+}
+
+#translation_vertical {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(37, 158, 79);
+    border: 1px solid black;
+    transform: translate(110px, -90px);
+    margin-top: 100px;
 }
